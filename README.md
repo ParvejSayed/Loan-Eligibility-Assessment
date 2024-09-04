@@ -1,1 +1,1 @@
-# Loan-Amount-Prediction
+# Loan-Eligibility-Assesment
